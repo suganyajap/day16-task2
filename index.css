@@ -1,0 +1,74 @@
+.container
+{
+  border:2px solid black;
+  height:550px;
+}
+h1
+{
+  font-family: 'Shadows Into Light', cursive;
+}
+h1,h2
+{
+  text-align:center;
+}
+.container2
+{
+  display:flex;
+  border:2px solid;
+  height:350px;
+  margin:20px;
+}
+.outer{
+  border:2px solid;
+  height:170px;
+  width:190px;
+  margin:50px 100px 20px 50px;
+  }
+.center
+{
+  font-family: 'Shadows Into Light', cursive;
+  border:2px solid;
+  height:90px;;
+  width:100px;
+  border-radius:50%;
+  margin-top:30px;
+  margin-left:40px;
+}
+p
+{
+  margin-left:20px;
+  margin-top:30px;
+  font-size:20px;
+}
+.form
+{
+  margin-top:30px;
+  
+}
+
+input[type="text"],.email,.number
+{
+  width:300px;
+  height:20px;
+  border:2px solid;
+}
+.select
+{
+  width:100px;
+  border:2px solid;
+}
+input[type=button]
+{
+  font-family: 'Shadows Into Light', cursive;
+  margin-top:40px;
+  margin-left:40px;
+  border:2px solid;
+  width:130px;
+  height:30px;
+  background-color:white;
+  font-size:15px;
+}
+label
+{
+  font-size:20px;
+}
